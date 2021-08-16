@@ -1,6 +1,6 @@
 # PRACTICE PROJECT OF GIT
 
-hello guys this a simplr git practice project u can learn n u can do forking of this repositry
+hello guys this a simple git practice project you can learn and you can do forking of this repositry
 
 
-thnks for visit!
+thanks for visit!
